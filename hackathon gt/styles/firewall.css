@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.navbar{
+    height: 100px;
+    background-color: #0f1111;
+} 
+.logo img {
+    background-size: cover;
+    width: 80px;
+    height: 80px;
+}
+.nav-links{
+    background-color: aliceblue;
+    color: aliceblue;
+}
+.nav-border{
+    border: 2px solid transparent;
+}
+.nav-border:hover{
+    border: 2px solid  white;
+}
