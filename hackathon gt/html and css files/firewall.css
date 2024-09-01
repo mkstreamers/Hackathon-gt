@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: border-box;
+}
+.navbar{
+    height:100px;
+    width: 100px;
+    background-color:( to  right top, #a1a1a1,#84b4d7,#00d1e3,#00e7a2,#a8eb12);
+    color: rgb(23, 59, 92);
+    display: flex;
+    align-items: center;
+    justify-content: space;
+}
+.navlogo{
+    height: 100px;
+    width: 100px;
+}
+.logo{
+    background-image: url(logo1.png);
+    background-size: cover;
+    height: 100px;
+    width: 100px; 
+}
+.border{
+    border: 3px solid transparent;
+}
+.border:hover{
+    border: 3px solid rgb(255, 255, 255);
+}
+.background{
+    height: 2000px;
+    width: 2800px;
+}
+.backpic{
+    
+    background-color: #161625;
+    background-size: cover;
+    height: 2000px;
+    width: 2000px;
+}
+
